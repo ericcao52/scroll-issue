@@ -1,4 +1,4 @@
-poc on scroll issue syntax
+poc on scroll issue 
 
 ### installation
 npm i \
